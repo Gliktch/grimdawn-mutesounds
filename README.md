@@ -1,7 +1,11 @@
  Grim Dawn Muted Sounds v1.1
 =============================
 
-## What It Is ##
+### What It Is ###
+
+I find some game sounds (like the crackling of the riftgate, or a couple of the
+pet sounds) diminish my enjoyment of the game - and I know I'm not the only one
+who feels this way.  Fortunately, there's hope! :)
 
 Files in a particular Grim Dawn folder will override the corresponding files in
 the base game, and any mods. This can be used to replace or mute unwanted sound
@@ -14,12 +18,12 @@ like Steam achievements.  Hope it helps!
 If you have any requests/suggestions of additional sounds worth including, drop
 by at the Reddit thread and let us know so it can be added for everyone:
 
-
+https://reddit.com/r/Grimdawn/comments/1jrajit/muting_unwanted_sounds_without_editing_databases/
 
   - Aazimox @ Reddit
 
 
-## How To Use ##
+### How To Use ###
 
 * Open this folder: Documents/My Games/Grim Dawn/Settings
 * If you see text files "keybindings" and "options", you're in the right place!
@@ -30,7 +34,7 @@ by at the Reddit thread and let us know so it can be added for everyone:
 * Start the game your normal way - and enjoy your game without annoying sounds!
 
 
-## That Skill Is Not Ready text ##
+### That Skill Is Not Ready text ###
 
 If you want to remove the red text which shows every time you try to use skills
 when they're on cooldown, you'll have to either extract & edit your own tags_ui
@@ -43,7 +47,7 @@ only work for English.
   made the changes for you.  No more nagging about spamming your skills! ;)
 
 
-## Muted Sounds List ##
+### Muted Sounds List ###
 
 ___[ GrimDawn_MutedCommonSounds.zip ]___
 
